@@ -18,7 +18,7 @@ tai khoan admin :
 tk : admin
 mk : admin
 */
-int main()
+int main(
 {
     adminAccount adminAccounts[100];
     studentAccount studentAccounts[100];
